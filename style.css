@@ -1,0 +1,35 @@
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: whitesmoke;
+}
+nav ul li a{
+    text-decoration: none;
+
+}
+nav{
+    background-color: sandybrown;
+}
+nav ul{
+    border-style: solid;
+    background-color: sandybrown;
+    border-color: whitesmoke;
+    padding: 11px;
+    border-radius: 11px;
+}
+body{
+    background-color: peachpuff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-family: sans-serif;
+    color: darkgoldenrod;
+}
+h2{
+    font-family: sans-serif
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
